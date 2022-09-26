@@ -22,6 +22,8 @@ Step 5:
 You can refine the count by clearing the string prior t splitting or validatting the words after splitting
 ## PROGRAM:
 ``` python
+developed by : S.JEGADEESH
+reference number: 22004355
 num=0
 with open("git.txt","r") as f1:
     for i in f1:
